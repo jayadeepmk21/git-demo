@@ -1,3 +1,4 @@
+/*find the maximum between the three numbers.*/
 #include <stdio.h>
 
 int main() {
